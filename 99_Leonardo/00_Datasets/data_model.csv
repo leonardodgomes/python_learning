@@ -1,0 +1,38 @@
+ID;Type;Color;Price;Sales;Region;Country;Data
+1;Model 1;White;349;77;Rome;w;05/04/2022
+2;Model 1;Black;450;432;Madrid;e;01/03/2021
+3;Model 2;Red;67;64;Porto;r;05/03/2020
+4;Model 2;Blue;70;249;Paris;2;23/04/2021
+5;Model 3;Red;394;174;Porto;;31/05/2021
+6;;;533;128;Lisbon;;02/04/2022
+;;;;;;;
+7;Model 4;Brown;223;50;Lisbon;e;05/07/2022
+8;Model 1;Violet;491;5;Porto;3;13/05/2021
+8;Model 1;Violet;543;27;Porto;d;13/05/2021
+9;Model 2;Grey;287;24;Paris;2;09/04/2021
+10;Model 1;White;357;48;Lodon;;10/02/2022
+11;Model 2;Black;388;35;Madrid;2;04/11/2022
+12;Model 5;yellow;199;30;Barcelona;2;29/10/2022
+13;Model 5;Blue;215;17;Madrid;;22/02/2022
+14;Model 1;Model 4;375;22;London;4;21/01/2022
+15;Model 2;Orange;216;42;Porto;d;01/04/2022
+16;Model 1;Orange;519;23;Lisbon;2;02/04/2022
+17;Model 1;Red;186;14;Porto;;03/03/2022
+18;Model 1;;437;34;Porto;2;04/03/2022
+19;Model 2;;419;19;Paris;2;01/02/2022
+20;Model 2;Brown;246;48;Lodon;;12/02/2022
+21;Model 3;Violet;288;31;Madrid;5;11/03/2022
+22;Model 3;Violet;236;41;Barcelona;d;05/04/2022
+23;;Grey;265;37;Madrid;2;01/01/2012
+24;Model 4;White;355;2;London;;13/05/2021
+25;Model 1;Black;369;15;Porto;2;13/05/2021
+26;Model 1;yellow;547;24;Lisbon;2;09/04/2021
+27;Model 2;Blue;318;13;Porto;;10/02/2022
+28;Model 1;Model 4;390;6;Lisbon;6;04/11/2022
+17;Model 2;Orange;63;48;Porto;d;29/10/2022
+18;Model 5;Violet;115;405;Porto;2;22/02/2022
+31;Model 5;Grey;298;32;Paris;;21/01/2022
+32;Model 1;White;208;299;Lodon;2;01/04/2022
+33;Model 2;Black;415;378;Madrid;2;02/04/2022
+34;Model 1;Orange;502;49;Barcelona;;03/03/2022
+;;;;;;;
